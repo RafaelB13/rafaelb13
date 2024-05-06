@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelb13&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelb13" /> </p>
 
-- 🔭 I’m currently working on [Absam.io](http://absam.io)
-
-- 🌱 I’m currently learning **Go, PHP, Kubernetes, Docker, Flutter**
+- 🌱 I’m currently learning **NodeJS, Go, PHP, Kubernetes, Docker, Flutter**
 
 - 📫 How to reach me **rafaelborgesdev@gmail.com**
 
